@@ -1,0 +1,14 @@
+{
+  "name": "redjsonserver",
+  "version": "0.0.1",
+  "description": "Armare un pequeño server con informacion de cursos",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json" 
+  },
+  "author": "Red Angel",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.0"
+  }
+}

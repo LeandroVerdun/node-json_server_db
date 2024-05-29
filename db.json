@@ -1,0 +1,69 @@
+{
+  "teamLeader": [
+    {
+      "nombre": "Ruby",
+      "apellido": "Rose",
+      "armas": [
+        {
+          "arma": "Crescent Rose"
+        },
+        {
+          "arma": "Scarecrow's Scythe"
+        }
+      ],
+      "id": "ffbc"
+    }
+  ],
+  "teamMembers": [
+    {
+      "nombre": "Weiss",
+      "apellido": "Schnee",
+      "armas": [
+        {
+          "arma": "Myrtenaster"
+        },
+        {
+          "arma": "Freeze Ray"
+        }
+      ],
+      "id": "90a2"
+    },
+    {
+      "nombre": "Blake",
+      "apellido": "Belladonna",
+      "armas": [
+        {
+          "arma": "Gambol Shroud"
+        },
+        {
+          "arma": "Deathstroke's Weapons"
+        }
+      ],
+      "id": "e57c"
+    },
+    {
+      "nombre": "Yang",
+      "apellido": "Xiao Long",
+      "armas": [
+        {
+          "arma": "Ember Celica"
+        },
+        {
+          "arma": "Yang's Prosthetic Arm"
+        },
+        {
+          "arma": "Flame Gun"
+        }
+      ],
+      "id": "76bc"
+    }
+  ],
+  "serie": [
+    {
+      "nombre": "RWBY",
+      "temporadas": 9,
+      "calificacion": "tah buena",
+      "id": "598c"
+    }
+  ]
+}
